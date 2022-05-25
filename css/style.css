@@ -44,6 +44,15 @@
     display: grid;
     grid-template-rows: 50px 150px;
   }
+  .img-me {
+    border: 1px solid #373738;
+    border-radius: 3px;
+    padding: 5px;
+    width: 160px;
+    max-width: 100%;
+    height: auto;
+
+  }
 
 .viewAll {
 text-align: center;
